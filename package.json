@@ -1,0 +1,21 @@
+{
+    "name": "christis-theme",
+    "displayName": "Christi's Theme",
+    "description": "Christi's Theme based on Panda with muted colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Christi's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Christis.tmTheme"
+            }
+        ]
+    }
+}
